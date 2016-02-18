@@ -6,7 +6,7 @@ public class Hola {
 		
 		System.out.println("Hola caracola");
 		
-		//Gran programa
+		//Gran programa y mejor persona
 
 	}
 
